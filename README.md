@@ -6,4 +6,7 @@ Um repositório criado com o intuito de reunir um guia sobre arquitetura de soft
 
 [Guia de contribuição](https://github.com/MarcosdeAndrade-byte/ArcSoftware/blob/main/SuaContribuicao/Contribuicao/contribuicao.md)
 
+#### Teoria
+[Guia teorico](https://github.com/MarcosdeAndrade-byte/ArcSoftware/blob/main/GuiaDeEstudos/Teoria/teoria.md)
+
 ## Estamos em construção!⚙⚙⚙⚙
