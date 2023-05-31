@@ -22,8 +22,8 @@ Regras:
 
 - Todos os conteúdos vinculados a esse repositório devem ser de autoria própria (Nada de sair colando artigo da internet hahaha)
 - Todos os conteudos teóricos vinculados a esse repositório devem ter um desafio que coresponda a teoria abordada (Nada melhor que colocar o desafio em prática)
-- Pense em quem vai ler o seu artigo e fazer o seu desafio! Defina o objetivo do desafio,escolha o tipo de desafio (iniciante,junior,pleno,senior),defina as regras do desafio,crie um enunciado claro,se necessário forneça recursos para o desenvolvimento do desafio,teste o desafio antes de enlouquecer o amiguinho com algo impossível
-- É proibido relacionar esse repositório com conteúdos piratas! (Diga não ao Capitão Jack Sparrow)
+- Pense em quem vai ler o seu artigo e fazer o seu desafio! Defina o objetivo do desafio,escolha o tipo de desafio (iniciante,junior,pleno,senior),defina as regras do desafio,crie um enunciado claro,se necessário forneça recursos para o desenvolvimento do desafio,teste o desafio antes de enlouquecer o amiguinho com algo impossível hahaha
+- É proibido relacionar esse repositório com conteúdos piratas!
 
 Regras de ouro:
 
