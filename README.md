@@ -12,4 +12,3 @@ Um repositório criado com o intuito de reunir um guia sobre arquitetura de soft
 #### Desafios
 [Lista de desafios](https://github.com/MarcosdeAndrade-byte/ArcSoftware/blob/main/GuiaDeEstudos/Desafios/desafios.md)
 
-## Estamos em construção!⚙⚙⚙⚙
