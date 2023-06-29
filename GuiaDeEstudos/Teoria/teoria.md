@@ -1,9 +1,9 @@
 # Teoria
 
-Olá, se você busca conteúdos teóricos sobre arquitetura de software veio ao lugar certo!😀 No momento ainda não temos conteúdos disponíveis😂,mas você pode fazer parte disso! Adicione um tópico ou relacione um artigo feito por você a um dos tópicos abaixo! Toda contribuição é bem-vinda!
+Olá, se você busca conteúdos teóricos sobre arquitetura de software veio ao lugar certo!😀 Adicione um tópico ou relacione um artigo feito por você a um dos tópicos abaixo! Toda contribuição é bem-vinda!
 
 1. Introdução à Arquitetura de Software
-
+- [Um não guia sobre arquitetura de software](https://medium.com/@junior.marck00.byte/um-n%C3%A3o-guia-sobre-arquitetura-de-software-e30196898b59)
 - O que é arquitetura de software?
 - Qual é o papel da arquitetura de software no desenvolvimento de software?
 - Quais são os benefícios de uma boa arquitetura de software?
